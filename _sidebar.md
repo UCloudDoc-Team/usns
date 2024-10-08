@@ -6,6 +6,6 @@
   * [消息类型](/usns/introduction/type.md)
 
 * 操作指南
-  * [订阅消息](/usns/blob/master/use/Subscribe%20message.md)
+  * [订阅消息]()
   * [设置通知方式与通知对象](/usns/use/setting.md)
-  * [查看消息列表](/usns/blob/master/use/View%20message%20list.md)
+  * [查看消息列表](/usns/use/View message list.md)

@@ -10,8 +10,8 @@
 
 ## 操作指南
 
-* [订阅消息](https://github.com/UCloudDoc-Team/usns/blob/master/use/Subscribe%20message.md)
-* [设置通知方式与通知对象](https://github.com/UCloudDoc-Team/usns/blob/master/use/Set%20the%20notification%20mode%20and%20notification%20object.md)
-* [查看消息列表](https://github.com/UCloudDoc-Team/usns/blob/master/use/View%20message%20list.md)
+* [订阅消息](use/Subscribe message.md)
+* [设置通知方式与通知对象](use/Set the notification mode and notification object.md)
+* [查看消息列表](use/View message list.md)
 
 
